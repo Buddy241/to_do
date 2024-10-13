@@ -1,0 +1,7 @@
+13/october/2024
+The To-Do List it is  managing tasks app.
+ It includes an AppBar displaying the title "To-Do List." The body features are
+ ListView.builder that dynamically updates the  tasks are added
+ Users can swipe left or right on a task to delete and the background color turning red during
+ the swipe action  At the bottom of the scree a TextField allows users to input new tasks
+ complemented by a Floating Action Button  that adds the task to the list when pressed
